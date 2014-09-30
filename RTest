@@ -3,4 +3,6 @@
 
 x <- seq(0,1,0.1)
 y <- x^2
+
+#or use ggplot?
 plot(x,y)
