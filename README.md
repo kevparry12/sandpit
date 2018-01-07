@@ -1,4 +1,4 @@
-test
+KEV'S SANDPIT
 ====
 
-test repository
+A repository for me to create files when learning Git and GitHub.
