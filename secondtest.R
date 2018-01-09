@@ -8,4 +8,4 @@ x <- rnorm(5000,0,1)
 # Plot the vector of variables as a histogram
 plot(x)
 
-# script ends...
+# script ends... here
